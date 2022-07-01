@@ -43,4 +43,4 @@
 	```
 "app.js" dosyasına yazmış olduğunuz "getData" isimli fonksiyonu "import" edin.
 Bir alt satırda bu fonksiyonu çalıştırın ve gelen sonucu log'layın.
-[https://app.patika.dev/courses/react/odev1](patika.dev)
+[Patika Dev](https://app.patika.dev/courses/react/odev1)
